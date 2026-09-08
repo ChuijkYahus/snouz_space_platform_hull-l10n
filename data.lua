@@ -127,7 +127,7 @@ data:extend(
     minable = {mining_time = 0.1, result = "snouz_wall_hull"},
     fast_replaceable_group = "wall",
     max_health = 450,
-    repair_speed_modifier = 0.1, --2
+    repair_speed_modifier = 1.5, --2
     corpse = "snouz_wall_hull-remnants",
     dying_explosion = "wall-explosion",
     repair_sound = sounds.manual_repair,
